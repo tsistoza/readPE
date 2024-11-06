@@ -1,0 +1,3 @@
+To compile program run "make"
+
+To run program: "./readpe [insert_filename]"

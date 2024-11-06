@@ -1,0 +1,4 @@
+readpe
+*.o
+.vscode
+*.exe
